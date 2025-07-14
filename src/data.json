@@ -1,0 +1,62 @@
+[
+  {
+    "title": "Buy groceries",
+    "description": "Milk, Bread, Eggs, and Fruits",
+    "created-at": "2024-06-01T09:00:00Z",
+    "completed": false
+  },
+  {
+    "title": "Read a book",
+    "description": "Finish reading 'Atomic Habits'",
+    "created-at": "2024-06-02T14:30:00Z",
+    "completed": true
+  },
+  {
+    "title": "Workout",
+    "description": "30 minutes of cardio and strength training",
+    "created-at": "2024-06-03T07:15:00Z",
+    "completed": false
+  },
+  {
+    "title": "Call Mom",
+    "description": "Check in and catch up with Mom",
+    "created-at": "2024-06-04T18:00:00Z",
+    "completed": true
+  },
+  {
+    "title": "Project meeting",
+    "description": "Discuss project milestones with the team",
+    "created-at": "2024-06-05T11:00:00Z",
+    "completed": false
+  },
+  {
+    "title": "Pay bills",
+    "description": "Electricity and Internet bills due",
+    "created-at": "2024-06-06T10:00:00Z",
+    "completed": false
+  },
+  {
+    "title": "Plan weekend trip",
+    "description": "Research places to visit nearby",
+    "created-at": "2024-06-07T16:45:00Z",
+    "completed": true
+  },
+  {
+    "title": "Clean the house",
+    "description": "Vacuum and dust all rooms",
+    "created-at": "2024-06-08T13:00:00Z",
+    "completed": false
+  },
+  {
+    "title": "Update resume",
+    "description": "Add recent projects and skills",
+    "created-at": "2024-06-09T19:30:00Z",
+    "completed": false
+  },
+  {
+    "title": "Watch a movie",
+    "description": "Watch the new sci-fi movie on Netflix",
+    "created-at": "2024-06-10T21:00:00Z",
+    "completed": true
+  }
+]
