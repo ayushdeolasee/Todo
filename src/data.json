@@ -1,62 +1,72 @@
 [
   {
+    "key": "b7e1c2a0-1f2b-4e3a-9c1d-1a2b3c4d5e6f",
     "title": "Buy groceries",
     "description": "Milk, Bread, Eggs, and Fruits",
-    "created-at": "2024-06-01T09:00:00Z",
+    "createdAt": "2024-06-01T09:00:00Z",
     "completed": false
   },
   {
+    "key": "c8f3d4b1-2e4c-5f6a-8b2c-3d4e5f6a7b8c",
     "title": "Read a book",
     "description": "Finish reading 'Atomic Habits'",
-    "created-at": "2024-06-02T14:30:00Z",
+    "createdAt": "2024-06-02T14:30:00Z",
     "completed": true
   },
   {
+    "key": "d9a5e6c2-3f5d-6a7b-9c3d-4e5f6a7b8c9d",
     "title": "Workout",
     "description": "30 minutes of cardio and strength training",
-    "created-at": "2024-06-03T07:15:00Z",
+    "createdAt": "2024-06-03T07:15:00Z",
     "completed": false
   },
   {
+    "key": "e0b7f8d3-4a6e-7b8c-0d4e-5f6a7b8c9d0e",
     "title": "Call Mom",
     "description": "Check in and catch up with Mom",
-    "created-at": "2024-06-04T18:00:00Z",
+    "createdAt": "2024-06-04T18:00:00Z",
     "completed": true
   },
   {
+    "key": "f1c9a0e4-5b7f-8c9d-1e5f-6a7b8c9d0e1f",
     "title": "Project meeting",
     "description": "Discuss project milestones with the team",
-    "created-at": "2024-06-05T11:00:00Z",
+    "createdAt": "2024-06-05T11:00:00Z",
     "completed": false
   },
   {
+    "key": "a2d0b1f5-6c8a-9d0e-2f6a-7b8c9d0e1f2a",
     "title": "Pay bills",
     "description": "Electricity and Internet bills due",
-    "created-at": "2024-06-06T10:00:00Z",
+    "createdAt": "2024-06-06T10:00:00Z",
     "completed": false
   },
   {
+    "key": "b3e1c2a6-7d9b-0e1f-3a7b-8c9d0e1f2a3b",
     "title": "Plan weekend trip",
     "description": "Research places to visit nearby",
-    "created-at": "2024-06-07T16:45:00Z",
+    "createdAt": "2024-06-07T16:45:00Z",
     "completed": true
   },
   {
+    "key": "c4f3d4b7-8e0c-1f2a-4b8c-9d0e1f2a3b4c",
     "title": "Clean the house",
     "description": "Vacuum and dust all rooms",
-    "created-at": "2024-06-08T13:00:00Z",
+    "createdAt": "2024-06-08T13:00:00Z",
     "completed": false
   },
   {
+    "key": "d5a5e6c8-9f1d-2a3b-5c9d-0e1f2a3b4c5d",
     "title": "Update resume",
     "description": "Add recent projects and skills",
-    "created-at": "2024-06-09T19:30:00Z",
+    "createdAt": "2024-06-09T19:30:00Z",
     "completed": false
   },
   {
+    "key": "e6b7f8d9-0a2e-3b4c-6d0e-1f2a3b4c5d6e",
     "title": "Watch a movie",
     "description": "Watch the new sci-fi movie on Netflix",
-    "created-at": "2024-06-10T21:00:00Z",
+    "createdAt": "2024-06-10T21:00:00Z",
     "completed": true
   }
 ]
